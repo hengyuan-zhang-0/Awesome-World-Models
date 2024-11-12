@@ -74,6 +74,7 @@ If you find this repository useful, please consider [citing](#citation) and givi
 * "Transformers and Slot Encoding for Sample Efficient Physical World Modelling", **`arXiv 2024.5`**. [[Paper](https://arxiv.org/abs/2405.20180)] [[Code](https://github.com/torchipeppo/transformers-and-slot-encoding-for-wm)]
 * **Puppeteer**: "Hierarchical World Models as Visual Whole-Body Humanoid Controllers", **`arXiv 2024.5`**. [[Paper](https://arxiv.org/abs/2405.18418)] [[Code](https://nicklashansen.com/rlpuppeteer)]
 * **BWArea Model**: "BWArea Model: Learning World Model, Inverse Dynamics, and Policy for Controllable Language Generation", **`arXiv 2024.5`**. [[Paper](https://arxiv.org/abs/2405.17039)]
+* **iVideoGPT**: "iVideoGPT: Interactive VideoGPTs are Scalable World Models", **`arXiv 2024.5`**. [[Paper](https://arxiv.org/pdf/2405.15223)] [[Code](https://github.com/thuml/iVideoGPT)]
 * **WKM**: "Agent Planning with World Knowledge Model", **`arXiv 2024.5`**.  [[Paper](https://arxiv.org/abs/2405.14205)] [[Code](https://github.com/zjunlp/WKM)]
 * **Diamond**: "Diffusion for World Modeling: Visual Details Matter in Atari", **`arXiv 2024.5`**.  [[Paper](https://arxiv.org/abs/2405.12399)] [[Code](https://github.com/eloialonso/diamond)]
 * "Compete and Compose: Learning Independent Mechanisms for Modular World Models", **`arXiv 2024.4`**.  [[Paper](https://arxiv.org/abs/2404.15109)]
